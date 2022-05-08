@@ -39,6 +39,7 @@
     "react-native-invertible-scroll-view": "^2.0.0",
     "react-native-modal": "^2.4.0",
     "react-native-navigation": "^7.27.1",
+    "react-native-paper": "^4.12.1",
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "^3.10.2",
     "react-native-svg": "12.1.1",
